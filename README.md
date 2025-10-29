@@ -1,0 +1,2 @@
+# Podcast_WebScraping-visualization-Analytics
+Analyzed podcast data across 19 genres and 1,900 records using Python (BeautifulSoup, Pandas). Cleaned missing ratings and episodes, and visualized key insights in Power BI. Identified top-rated genres and consistent publishers based on listener engagement and content volume. This project demonstrates skills in web scraping, data cleaning, EDA, and dashboard creation for media analytics.
